@@ -10,4 +10,9 @@ Used Google Places Api to locate nearby Hospitals or Emergency Centres.
 
 
 App Demo:
-/Users/ashby5128/Downloads/proj112/assets/appDemo.MP4
+https://user-images.githubusercontent.com/45870640/236961155-24a02f04-0308-41da-8d1f-8e25e3b7b64f.MOV
+
+App Screen shots:
+![evash0](https://user-images.githubusercontent.com/45870640/236961313-aac334a1-0e65-4e6a-9c3b-2bb908c8777a.png)
+![evash1](https://user-images.githubusercontent.com/45870640/236961329-c3ccbe32-32ca-414a-9f91-1017ff61bc01.jpg)
+![evash3](https://user-images.githubusercontent.com/45870640/236961340-9e673753-d5cb-4567-995d-1f311bbf5f3e.jpg)
